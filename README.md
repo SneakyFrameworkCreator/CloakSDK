@@ -1,4 +1,4 @@
-
+![Alt text](image.png)
 # Tutorial
 enter a cloaksdk-1.0.py file in your project
 and have fun!
