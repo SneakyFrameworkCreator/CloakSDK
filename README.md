@@ -8,3 +8,7 @@ and have fun!
 import cloaksdk-1.0.py
 CloakSDK.password_generator
 ```
+# Or use this command
+```bash
+pip install CloakSDK
+```
